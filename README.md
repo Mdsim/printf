@@ -1,7 +1,9 @@
 #0x11. C - printf
 
-Description This team project is part of the ALX Software engineering curriculum. _printf replicates the C standard library printf() function.
+Description: This team project is part of the ALX Software engineering curriculum. _printf replicates the C standard library printf() function.
 
-What you should learn from this project:
+What we learnt from this project:
 
-How to use git in a team setting Applying variadic functions to a big project The complexities of printf Managing a lot of files and finding a good workflow
+-How to collaborate as a team.
+-How to use variadic functions projects.
+-The complexities of printf Managing a lot of files and finding a good workflow.
